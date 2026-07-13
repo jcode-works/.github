@@ -1,39 +1,37 @@
 # jCode Works
 
-**Ingénierie full-stack senior, produits SaaS et open source.**
+**Senior full-stack engineering for SaaS, business applications and open source.**
 
-jCode Works est le studio technique de
-[Jean-Baptiste Théry](https://github.com/jb-thery), développeur Full-Stack
-Senior freelance. Il réunit ses produits, ses contributions open source et
-neuf années d'expérience sur plus de 80 projets pour des grands comptes,
-institutions et startups technologiques.
+jCode Works is the technical studio of
+[Jean-Baptiste Théry](https://github.com/jb-thery), a Senior Freelance
+Full-Stack Developer. It brings together his products, open-source work and
+nine years of experience across more than 80 projects for enterprise clients,
+institutions and technology startups.
 
-## Ce que nous construisons
+## What we build
 
-- [**Ragmir**](https://github.com/jcode-works/jcode-ragmir) : solution RAG
-  local-first open source pour fournir aux équipes de développement un
-  contexte projet fiable et cité, via une bibliothèque TypeScript, une CLI et
-  un serveur MCP.
-- [**WorkoutGen**](https://workoutgen.app) : SaaS sportif disponible en
-  9 langues et comptant plus de 27 000 utilisateurs inscrits.
-- [**Honolulu Theme**](https://github.com/jcode-works/honolulu_vscode_theme) :
-  thème open source pour Visual Studio Code.
+- [**Ragmir**](https://github.com/jcode-works/jcode-ragmir): an open-source,
+  local-first RAG solution that gives development teams reliable, cited
+  project context through a TypeScript library, CLI and MCP server.
+- [**WorkoutGen**](https://workoutgen.app): a sports SaaS available in
+  9 languages with more than 27,000 registered users.
+- [**Honolulu Theme**](https://github.com/jcode-works/honolulu_vscode_theme):
+  an open-source theme for Visual Studio Code.
 
 ## Expertise
 
-Architecture full-stack · SaaS et applications métier · Frontends complexes ·
-Design systems · API et authentification · Données et cloud · Tests et CI/CD ·
-Workflows d'ingénierie augmentés par l'IA avec validation humaine
+Full-stack architecture · SaaS and business applications · Complex frontends ·
+Design systems · APIs and authentication · Data and cloud · Testing and CI/CD ·
+AI-augmented engineering workflows with human review
 
-**Technologies principales :** TypeScript · React · Next.js · Svelte / SvelteKit
-· Node.js · Java / Spring Boot · Hono · Astro · PostgreSQL · Cloudflare
+**Core technologies:** TypeScript · React · Next.js · Svelte / SvelteKit ·
+Node.js · Java / Spring Boot · Hono · Astro · PostgreSQL · Cloudflare
 
-## Collaborer
+## Work with Jean-Baptiste
 
-Jean-Baptiste intervient entièrement à distance auprès de grands comptes,
-PME structurées, ESN et startups / scale-ups, du cadrage à la mise en
-production.
+Jean-Baptiste works fully remote with enterprise clients, established SMEs,
+IT services firms, startups and scale-ups, from discovery to production.
 
-[Profil GitHub](https://github.com/jb-thery) ·
+[GitHub profile](https://github.com/jb-thery) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Email](mailto:jb.thery@jcode.works)
