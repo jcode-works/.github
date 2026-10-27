@@ -4,8 +4,8 @@
 [Jean-Baptiste Thery](https://github.com/jb-thery).**
 
 jCode (EURL jCode, registered in Paris) is the company through which Jean-Baptiste Thery, a
-senior full-stack developer since 2016, works for clients, fully remote, and builds his own
-products. [jcode.works](https://jcode.works)
+senior full-stack TypeScript developer since 2016, works for clients, fully remote, and builds
+his own products. [jcode.works](https://jcode.works)
 
 ## Products
 
