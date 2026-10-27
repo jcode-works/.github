@@ -21,9 +21,9 @@ his own products. [jcode.works](https://jcode.works)
 ## Freelance services
 
 Senior development for product teams, web apps from prototype to product, takeover and
-modernisation of existing applications, AI features and MCP servers, AI-assisted development
-workflows and technical consulting. Clients include Sciences Po, Decathlon, Suzuki France, Oney,
-Leadbay (Y Combinator F25), Stellia.ai and HelloPrêt.
+modernisation of existing applications, AI features and MCP servers, and technical consulting.
+Clients include Sciences Po, Decathlon, Suzuki France, Oney, Leadbay (Y Combinator F25),
+Stellia.ai and HelloPrêt. Open to new engagements, fully remote.
 
 [jcode.works/freelance](https://jcode.works/freelance/) ·
 [Email](mailto:jb.thery@jcode.works) ·
