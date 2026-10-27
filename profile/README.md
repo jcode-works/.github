@@ -1,37 +1,31 @@
-# jCode Works
+# jCode
 
-**Senior full-stack engineering for SaaS, business applications and open source.**
+**Freelance software development and independent products, by
+[Jean-Baptiste Thery](https://github.com/jb-thery).**
 
-jCode Works is the technical studio of
-[Jean-Baptiste Théry](https://github.com/jb-thery), a Senior Freelance
-Full-Stack Developer. It brings together his products, open-source work and
-nine years of experience across more than 80 projects for enterprise clients,
-institutions and technology startups.
+jCode (EURL jCode, registered in Paris) is the company through which Jean-Baptiste Thery, a
+senior full-stack developer since 2016, works for clients, fully remote, and builds his own
+products. [jcode.works](https://jcode.works)
 
-## What we build
+## Products
 
-- [**Ragmir**](https://github.com/jcode-works/jcode-ragmir): an open-source,
-  local-first RAG solution that gives development teams reliable, cited
-  project context through a TypeScript library, CLI and MCP server.
-- [**WorkoutGen**](https://workoutgen.app): a sports SaaS available in
-  9 languages with more than 27,000 registered users.
-- [**Honolulu Theme**](https://github.com/jcode-works/honolulu_vscode_theme):
-  an open-source theme for Visual Studio Code.
+- [**Ragmir**](https://ragmir.com): an open-source (AGPL-3.0) TypeScript library, CLI and MCP
+  server that gives coding agents such as Claude Code and Codex cited context from a project's
+  code and documents, local by default. [Source](https://github.com/jcode-works/jcode-ragmir) ·
+  [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
+- [**WorkoutGen**](https://workoutgen.app): a fitness app on the web, the App Store, Google Play
+  and the Microsoft Store, with 46,000+ members and 9 languages (workoutgen.app, October 2026).
+- [**Honolulu Theme**](https://github.com/jcode-works/honolulu_vscode_theme): an open-source
+  colour theme for Visual Studio Code.
 
-## Expertise
+## Freelance services
 
-Full-stack architecture · SaaS and business applications · Complex frontends ·
-Design systems · APIs and authentication · Data and cloud · Testing and CI/CD ·
-AI-augmented engineering workflows with human review
+Senior development for product teams, web apps from prototype to product, takeover and
+modernisation of existing applications, AI features and MCP servers, AI-assisted development
+workflows and technical consulting. Clients include Sciences Po, Decathlon, Suzuki France, Oney,
+Leadbay (Y Combinator F25), Stellia.ai and HelloPrêt.
 
-**Core technologies:** TypeScript · React · Next.js · Svelte / SvelteKit ·
-Node.js · Java / Spring Boot · Hono · Astro · PostgreSQL · Cloudflare
-
-## Work with Jean-Baptiste
-
-Jean-Baptiste works fully remote with enterprise clients, established SMEs,
-IT services firms, startups and scale-ups, from discovery to production.
-
-[GitHub profile](https://github.com/jb-thery) ·
+[jcode.works/freelance](https://jcode.works/freelance/) ·
+[Email](mailto:jb.thery@jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
-[Email](mailto:jb.thery@jcode.works)
+[Malt](https://www.malt.fr/profile/jeanbaptistethery)
