@@ -14,7 +14,7 @@ his own products. [jcode.works](https://jcode.works)
   code and documents, local by default. [Source](https://github.com/jcode-works/jcode-ragmir) ·
   [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
 - [**WorkoutGen**](https://workoutgen.app): a fitness app on the web, the App Store, Google Play
-  and the Microsoft Store, with 46,000+ members and 9 languages (workoutgen.app, October 2026).
+  and the Microsoft Store, with 51,000+ members and 9 languages (workoutgen.app, October 2026).
 - [**Honolulu Theme**](https://github.com/jcode-works/honolulu_vscode_theme): an open-source
   colour theme for Visual Studio Code.
 
