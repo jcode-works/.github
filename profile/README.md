@@ -4,8 +4,8 @@
 [Jean-Baptiste Thery](https://github.com/jb-thery).**
 
 jCode (EURL jCode, registered in Paris) is the company through which Jean-Baptiste Thery, a
-senior full-stack TypeScript developer since 2016, works for clients, fully remote, and builds
-his own products. [jcode.works](https://jcode.works)
+senior full-stack TypeScript developer with 10 years of experience, works for clients, fully
+remote, and builds his own products. [jcode.works](https://jcode.works)
 
 ## Products
 
@@ -26,6 +26,5 @@ Clients include Sciences Po, Decathlon, Suzuki France, Oney, Leadbay (Y Combinat
 Stellia.ai and HelloPrêt. Open to new engagements, fully remote.
 
 [jcode.works/freelance](https://jcode.works/freelance/) ·
-[Email](mailto:jb.thery@jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
