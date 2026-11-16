@@ -11,7 +11,7 @@ remote, and builds his own products. [jcode.works](https://jcode.works)
 
 - [**Ragmir**](https://ragmir.com): an open-source (AGPL-3.0) TypeScript library, CLI and MCP
   server that gives coding agents such as Claude Code and Codex cited context from a project's
-  code and documents, local by default. [Source](https://github.com/jcode-works/jcode-ragmir) ·
+  code and documents, local by default. [Source](https://github.com/jcode-works/ragmir) ·
   [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
 - [**WorkoutGen**](https://workoutgen.app): a fitness app on the web, the App Store, Google Play
   and the Microsoft Store, with 51,000+ members and 9 languages (workoutgen.app, October 2026).
